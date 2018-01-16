@@ -1,0 +1,2 @@
+# hardhatcoin
+Hardhatcoin repository
